@@ -1,6 +1,6 @@
 ## :alien: Hi, I'm Marcelo! 
 *About me*
-- :man_student: Information systems Student at the University of São Paulo
+- :man_student: Information Systems Student at the University of São Paulo
 - :book: I'm currently Learning C and Data analysis
 - Brazilian :brazil:
 ---
