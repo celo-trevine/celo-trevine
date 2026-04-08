@@ -4,7 +4,7 @@
 - :book: I'm currently Learning C and Data analysis
 - Brazilian :brazil:
 ---
-[My LinkedIn](www.linkedin.com/in/marcelo-trevine-63b77b32a)
+My LinkedIn www.linkedin.com/in/marcelo-trevine-63b77b32a
 
 
 
